@@ -64,7 +64,7 @@ Follow in order to get updates whenever the repository is updated.
   <a href="https://linkedin.com/in/bensonngugi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/JargonSparrow"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://instagram.com/bensonngugi0"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://discord.gg/jrbQEMYKUj"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://discord.gg/Qan3Cj6JT8"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
