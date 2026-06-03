@@ -10,8 +10,6 @@
 
 Hello, I'm an aspiring Cybersecurity Professional currently pursuing knowledge and practical skills in Ethical Hacking and Information Security.
 
-My current focus is preparing for the Certified Ethical Hacker (CEH) certification while building hands-on experience through labs, projects, and continuous learning.
-
 This repository documents my cybersecurity journey, notes, labs, tools, and projects as I grow from beginner level to professional penetration tester.
 
 ---
